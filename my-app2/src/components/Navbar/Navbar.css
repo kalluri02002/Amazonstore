@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(161, 244, 216);
+    align-items: flex;
+   height: 20vh;
+   padding: 20px 30px;
+}
+.left{
+    align-items: flex-start;
+    float: left;
+}
+.right{
+    float: right;
+}
+.mid{
+    float:centre;
+}
